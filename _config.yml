@@ -17,7 +17,7 @@ title: Ars
 email: info@ars.18f.it
 description: Bibliotecario, custode della cultura pubblica
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://culture.gabrieljones.it" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://biblioteca.culture.gabrieljones.it" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: 
 github_username:  
